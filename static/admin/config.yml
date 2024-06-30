@@ -1,7 +1,7 @@
 site_url: https://guestinawebpage.github.io
 backend:
   name: github
-  repo: GuestinaWebPage/GuestinaWebPage.github.io
+  repo: guestinawebpage/guestinawebpage.github.io
   branch: main
   base_url: https://oauth.wuffli.art
 
