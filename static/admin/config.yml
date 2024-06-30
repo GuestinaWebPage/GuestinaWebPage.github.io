@@ -3,6 +3,7 @@ backend:
   name: github
   repo: GuestinaWebPage/GuestinaWebPage.github.io
   branch: main
+  base_url: https://oauth.wuffli.art
 
 media_folder: "static/images/uploads"
 
