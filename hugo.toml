@@ -1,0 +1,4 @@
+baseURL = 'https://guestinawebpage.github.io'
+languageCode = 'de-DE'
+title = 'My New Hugo Site'
+theme = 'ananke'
