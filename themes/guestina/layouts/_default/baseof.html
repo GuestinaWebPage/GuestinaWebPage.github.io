@@ -7,8 +7,11 @@
   <header>
     {{ partial "header.html" . }}
   </header>
-  <main>
-    {{ block "main" . }}{{ end }}
+  <main class="main">
+    <canvas id="bg-canvas">Background Canvas</canvas>
+    <div id="content">
+      {{ block "main" . }}{{ end }}
+    </div>
   </main>
   <footer>
     {{ partial "footer.html" . }}
